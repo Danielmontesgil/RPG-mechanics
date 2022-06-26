@@ -1,0 +1,1440 @@
+fileFormatVersion: 2
+guid: 91275d46c2353f742a20d2191e7c6cf3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8358962424591718815
+    second: Down Bow Character 5 01
+  - first:
+      213: -8612854158489026780
+    second: Down Bow Character 5 02
+  - first:
+      213: 89875016396144864
+    second: Down Bow Character 5 03
+  - first:
+      213: 8193891475934192207
+    second: Down Bow Character 5 04
+  - first:
+      213: 3893237806991337087
+    second: Down Bow Character 5 05
+  - first:
+      213: 6733364136213479845
+    second: Down Bow Character 5 06
+  - first:
+      213: 4601549873406512893
+    second: Down Bow Character 5 07
+  - first:
+      213: -2486054231497395524
+    second: Down Cast Character 5 01
+  - first:
+      213: 3693109735974875439
+    second: Down Cast Character 5 02
+  - first:
+      213: 5453995097402218857
+    second: Down Cast Character 5 03
+  - first:
+      213: -4732211353457792720
+    second: Down Cast Character 5 04
+  - first:
+      213: -9122912273275689660
+    second: Down Cast Character 5 05
+  - first:
+      213: -6096162751103604214
+    second: Down Cast Character 5 06
+  - first:
+      213: 447055221604165677
+    second: Down Die Character 5 01
+  - first:
+      213: 7373198439735517471
+    second: Down Die Character 5 02
+  - first:
+      213: 8469435271790455730
+    second: Down Die Character 5 03
+  - first:
+      213: 17291657152567112
+    second: Down Die Character 5 04
+  - first:
+      213: -5262029815981467088
+    second: Down Die Character 5 05
+  - first:
+      213: -5015441535864178220
+    second: Down Die Character 5 06
+  - first:
+      213: -6891572340413606983
+    second: Down Die Character 5 07
+  - first:
+      213: 9153570456399823021
+    second: Down Die Character 5 08
+  - first:
+      213: 7388952229997913161
+    second: Down Die Character 5 09
+  - first:
+      213: -8604489078400369581
+    second: Down Hurt Character 5 01
+  - first:
+      213: 3309524918887509205
+    second: Down Hurt Character 5 02
+  - first:
+      213: -3447873731899082098
+    second: Down Hurt Character 5 03
+  - first:
+      213: -1391716315843718584
+    second: Down Hurt Character 5 04
+  - first:
+      213: -4320705867550685585
+    second: Down Hurt Character 5 05
+  - first:
+      213: -2214490982414242066
+    second: Down Idle Character 5 01
+  - first:
+      213: -2278403051198943276
+    second: Down Idle Character 5 02
+  - first:
+      213: -4874355693333989928
+    second: Down Idle Character 5 03
+  - first:
+      213: 6254231332936572094
+    second: Down Idle Character 5 04
+  - first:
+      213: -3507943579227799705
+    second: Down Idle Character 5 05
+  - first:
+      213: 4439015240653847151
+    second: Down Idle Character 5 06
+  - first:
+      213: -7672644782939772103
+    second: Down Idle Character 5 07
+  - first:
+      213: 2580004148690433147
+    second: Down Run Character 5 01
+  - first:
+      213: -835513961971276822
+    second: Down Run Character 5 02
+  - first:
+      213: 8009156098935548749
+    second: Down Run Character 5 03
+  - first:
+      213: 4409563783424564769
+    second: Down Run Character 5 04
+  - first:
+      213: 6884689839774791794
+    second: Down Run Character 5 05
+  - first:
+      213: 5177060781317603778
+    second: Down Run Character 5 06
+  - first:
+      213: 7109636087084832029
+    second: Down Run Character 5 07
+  - first:
+      213: -7311408389493585263
+    second: Down Run Character 5 08
+  - first:
+      213: -2023987820034523958
+    second: Down Run Character 5 09
+  - first:
+      213: 8898870573531802113
+    second: Down Run Character 5 10
+  - first:
+      213: -3572650640363456116
+    second: Down Swing Character 5 01
+  - first:
+      213: 2342275592450610066
+    second: Down Swing Character 5 02
+  - first:
+      213: -2199121743344997979
+    second: Down Swing Character 5 03
+  - first:
+      213: -3395747514055401134
+    second: Down Swing Character 5 04
+  - first:
+      213: 188261514808309988
+    second: Down Swing Character 5 05
+  - first:
+      213: 7246062368512383194
+    second: Down Swing Character 5 06
+  - first:
+      213: -1375238321848109410
+    second: Down Thrust Character 5 01
+  - first:
+      213: -7603693288273980030
+    second: Down Thrust Character 5 02
+  - first:
+      213: -2275073980458750195
+    second: Down Thrust Character 5 03
+  - first:
+      213: 8063212810142732338
+    second: Down Thrust Character 5 04
+  - first:
+      213: -5828248838173725940
+    second: Down Thrust Character 5 05
+  - first:
+      213: -6826426246187679809
+    second: Down Thrust Character 5 06
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Down Bow Character 5 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 724
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1666f5766fffefb80800000000000000
+      internalID: -8358962424591718815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Bow Character 5 02
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 726
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ff30596cef87880800000000000000
+      internalID: -8612854158489026780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Bow Character 5 03
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 829
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0897ae9dc4f3100800000000000000
+      internalID: 89875016396144864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Bow Character 5 04
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 829
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42a82f52ec86b170800000000000000
+      internalID: 8193891475934192207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Bow Character 5 05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 727
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76e6df782f870630800000000000000
+      internalID: 3893237806991337087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Bow Character 5 06
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 727
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a10c5ac107b17d50800000000000000
+      internalID: 6733364136213479845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Bow Character 5 07
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 725
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe83a4da3dfbdf30800000000000000
+      internalID: 4601549873406512893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Cast Character 5 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 724
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2bd3f19d2cf7dd0800000000000000
+      internalID: -2486054231497395524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Cast Character 5 02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 619
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21b159ecbf804330800000000000000
+      internalID: 3693109735974875439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Cast Character 5 03
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 511
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969916305ab70bb40800000000000000
+      internalID: 5453995097402218857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Cast Character 5 04
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 402
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039e31ba8dec35eb0800000000000000
+      internalID: -4732211353457792720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Cast Character 5 05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 403
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445e95a6f97e46180800000000000000
+      internalID: -9122912273275689660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Cast Character 5 06
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 619
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a6087d644166ba0800000000000000
+      internalID: -6096162751103604214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Die Character 5 01
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 619
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2823befa52443600800000000000000
+      internalID: 447055221604165677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Die Character 5 02
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 830
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1166e28aecd25660800000000000000
+      internalID: 7373198439735517471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Die Character 5 03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 834
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbeb37b18a798570800000000000000
+      internalID: 8469435271790455730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Die Character 5 04
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 726
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847182aabae6d3000800000000000000
+      internalID: 17291657152567112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Die Character 5 05
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 403
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a19e403c389f6b0800000000000000
+      internalID: -5262029815981467088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Die Character 5 06
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 931
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9731ffe72956ab0800000000000000
+      internalID: -5015441535864178220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Die Character 5 07
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 955
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b35db138773c50a0800000000000000
+      internalID: -6891572340413606983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Die Character 5 08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 960
+        width: 107
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0c83815d3080f70800000000000000
+      internalID: 9153570456399823021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Die Character 5 09
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 960
+        width: 105
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9442b53a7e4da8660800000000000000
+      internalID: 7388952229997913161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Hurt Character 5 01
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 619
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cb73095c6b69880800000000000000
+      internalID: -8604489078400369581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Hurt Character 5 02
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 832
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dce79d016bcded20800000000000000
+      internalID: 3309524918887509205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Hurt Character 5 03
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 833
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a31c3cb11b620d0800000000000000
+      internalID: -3447873731899082098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Hurt Character 5 04
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 830
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84215066261aface0800000000000000
+      internalID: -1391716315843718584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Hurt Character 5 05
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 724
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6602b1d7e4c904c0800000000000000
+      internalID: -4320705867550685585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Idle Character 5 01
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 619
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeea4e23f2c8441e0800000000000000
+      internalID: -2214490982414242066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Idle Character 5 02
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 619
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfee161f7c7160e0800000000000000
+      internalID: -2278403051198943276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Idle Character 5 03
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 513
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5bce5825fca5cb0800000000000000
+      internalID: -4874355693333989928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Idle Character 5 04
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 513
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc5dcec24e7bc650800000000000000
+      internalID: 6254231332936572094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Idle Character 5 05
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 513
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fb30c86e7415fc0800000000000000
+      internalID: -3507943579227799705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Idle Character 5 06
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 513
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ab7bba7dc8a9d30800000000000000
+      internalID: 4439015240653847151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Idle Character 5 07
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 619
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bee19a83a458590800000000000000
+      internalID: -7672644782939772103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Run Character 5 01
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 282
+        width: 64
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b743ab19a140ec320800000000000000
+      internalID: 2580004148690433147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Run Character 5 02
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 284
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3a2d37a78a764f0800000000000000
+      internalID: -835513961971276822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Run Character 5 03
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 401
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4be4b3a90d362f60800000000000000
+      internalID: 8009156098935548749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Run Character 5 04
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 726
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ed27de5eae13d30800000000000000
+      internalID: 4409563783424564769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Run Character 5 05
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 402
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2787480cee45b8f50800000000000000
+      internalID: 6884689839774791794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Run Character 5 06
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 282
+        width: 64
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1ca03f95d98d740800000000000000
+      internalID: 5177060781317603778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Run Character 5 07
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 283
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d155dfc4a508aa260800000000000000
+      internalID: 7109636087084832029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Run Character 5 08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a8c68aec8a88a90800000000000000
+      internalID: -7311408389493585263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Run Character 5 09
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 619
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accff1d1dc959e3e0800000000000000
+      internalID: -2023987820034523958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Run Character 5 10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 403
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a2a8d63a32f7b70800000000000000
+      internalID: 8898870573531802113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Swing Character 5 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 724
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89709adb256b6ec0800000000000000
+      internalID: -3572650640363456116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Swing Character 5 02
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 513
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293161ecd3f618020800000000000000
+      internalID: 2342275592450610066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Swing Character 5 03
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 403
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a965160d662b71e0800000000000000
+      internalID: -2199121743344997979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Swing Character 5 04
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 122
+        width: 118
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251efcd90a1efd0d0800000000000000
+      internalID: -3395747514055401134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Swing Character 5 05
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 123
+        width: 107
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8b60ba9d6dc9200800000000000000
+      internalID: 188261514808309988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Swing Character 5 06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 514
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad89187355f2f8460800000000000000
+      internalID: 7246062368512383194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Thrust Character 5 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 724
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e963db8580c2aece0800000000000000
+      internalID: -1375238321848109410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Thrust Character 5 02
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 272
+        width: 75
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285586b8d314a7690800000000000000
+      internalID: -7603693288273980030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Thrust Character 5 03
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 273
+        width: 71
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fa505c4405d60e0800000000000000
+      internalID: -2275073980458750195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Thrust Character 5 04
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 113
+        width: 75
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230dfe0845946ef60800000000000000
+      internalID: 8063212810142732338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Thrust Character 5 05
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 114
+        width: 77
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b6212af86ed1fa0800000000000000
+      internalID: -5828248838173725940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down Thrust Character 5 06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 72
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf749e3f79a341a0800000000000000
+      internalID: -6826426246187679809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

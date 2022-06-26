@@ -1,0 +1,71 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ca13e6c344f07b96de6919980c3a4e76:929c8382577035c73ae585a8b6181883:d6bceed53e610b208dbf5397a57a12c9$
+#
+:format=40300
+:texture=Character 9 Down.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Down Bow Character 9 01;252;720;60;105; 0.5;0.5; 0;0;0;0
+Down Bow Character 9 02;185;721;65;104; 0.5;0.5; 0;0;0;0
+Down Bow Character 9 03;198;827;62;102; 0.5;0.5; 0;0;0;0
+Down Bow Character 9 04;262;827;58;102; 0.5;0.5; 0;0;0;0
+Down Bow Character 9 05;322;827;81;102; 0.5;0.5; 0;0;0;0
+Down Bow Character 9 06;405;827;66;102; 0.5;0.5; 0;0;0;0
+Down Bow Character 9 07;314;720;58;105; 0.5;0.5; 0;0;0;0
+Down Cast Character 9 01;252;720;60;105; 0.5;0.5; 0;0;0;0
+Down Cast Character 9 02;59;612;77;106; 0.5;0.5; 0;0;0;0
+Down Cast Character 9 03;123;502;75;108; 0.5;0.5; 0;0;0;0
+Down Cast Character 9 04;321;501;53;109; 0.5;0.5; 0;0;0;0
+Down Cast Character 9 05;376;501;51;109; 0.5;0.5; 0;0;0;0
+Down Cast Character 9 06;138;612;56;106; 0.5;0.5; 0;0;0;0
+Down Die Character 9 01;374;720;60;105; 0.5;0.5; 0;0;0;0
+Down Die Character 9 02;134;828;62;101; 0.5;0.5; 0;0;0;0
+Down Die Character 9 03;431;931;64;92; 0.5;0.5; 0;0;0;0
+Down Die Character 9 04;1;723;60;102; 0.5;0.5; 0;0;0;0
+Down Die Character 9 05;200;502;61;108; 0.5;0.5; 0;0;0;0
+Down Die Character 9 06;331;943;98;80; 0.5;0.5; 0;0;0;0
+Down Die Character 9 07;223;969;106;54; 0.5;0.5; 0;0;0;0
+Down Die Character 9 08;1;971;110;52; 0.5;0.5; 0;0;0;0
+Down Die Character 9 09;113;970;108;53; 0.5;0.5; 0;0;0;0
+Down Hurt Character 9 01;374;720;60;105; 0.5;0.5; 0;0;0;0
+Down Hurt Character 9 02;68;830;64;99; 0.5;0.5; 0;0;0;0
+Down Hurt Character 9 03;1;831;65;98; 0.5;0.5; 0;0;0;0
+Down Hurt Character 9 04;63;723;63;102; 0.5;0.5; 0;0;0;0
+Down Hurt Character 9 05;252;720;60;105; 0.5;0.5; 0;0;0;0
+Down Idle Character 9 01;436;720;60;105; 0.5;0.5; 0;0;0;0
+Down Idle Character 9 02;196;612;59;106; 0.5;0.5; 0;0;0;0
+Down Idle Character 9 03;257;612;59;106; 0.5;0.5; 0;0;0;0
+Down Idle Character 9 04;1;503;59;107; 0.5;0.5; 0;0;0;0
+Down Idle Character 9 05;62;503;59;107; 0.5;0.5; 0;0;0;0
+Down Idle Character 9 06;1;503;59;107; 0.5;0.5; 0;0;0;0
+Down Idle Character 9 07;196;612;59;106; 0.5;0.5; 0;0;0;0
+Down Run Character 9 01;371;379;56;120; 0.5;0.5; 0;0;0;0
+Down Run Character 9 02;196;382;57;117; 0.5;0.5; 0;0;0;0
+Down Run Character 9 03;80;388;56;111; 0.5;0.5; 0;0;0;0
+Down Run Character 9 04;128;722;55;103; 0.5;0.5; 0;0;0;0
+Down Run Character 9 05;429;501;54;109; 0.5;0.5; 0;0;0;0
+Down Run Character 9 06;313;380;56;119; 0.5;0.5; 0;0;0;0
+Down Run Character 9 07;255;381;56;118; 0.5;0.5; 0;0;0;0
+Down Run Character 9 08;138;386;56;113; 0.5;0.5; 0;0;0;0
+Down Run Character 9 09;1;613;56;105; 0.5;0.5; 0;0;0;0
+Down Run Character 9 10;263;502;56;108; 0.5;0.5; 0;0;0;0
+Down Swing Character 9 01;252;720;60;105; 0.5;0.5; 0;0;0;0
+Down Swing Character 9 02;318;612;72;106; 0.5;0.5; 0;0;0;0
+Down Swing Character 9 03;1;390;77;109; 0.5;0.5; 0;0;0;0
+Down Swing Character 9 04;265;218;118;150; 0.5;0.5; 0;0;0;0
+Down Swing Character 9 05;147;219;116;149; 0.5;0.5; 0;0;0;0
+Down Swing Character 9 06;392;612;107;106; 0.5;0.5; 0;0;0;0
+Down Thrust Character 9 01;252;720;60;105; 0.5;0.5; 0;0;0;0
+Down Thrust Character 9 02;1;238;73;130; 0.5;0.5; 0;0;0;0
+Down Thrust Character 9 03;429;370;70;129; 0.5;0.5; 0;0;0;0
+Down Thrust Character 9 04;1;49;68;159; 0.5;0.5; 0;0;0;0
+Down Thrust Character 9 05;385;210;70;158; 0.5;0.5; 0;0;0;0
+Down Thrust Character 9 06;76;222;69;146; 0.5;0.5; 0;0;0;0

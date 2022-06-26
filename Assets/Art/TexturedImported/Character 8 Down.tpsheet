@@ -1,0 +1,71 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2e9c3dd372c07e9b479394d4fa5ed414:1bbf97440d4be72488084b2360e6a610:407dfb2fe6345e473be5564a2c798ff2$
+#
+:format=40300
+:texture=Character 8 Down.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Down Bow Character 8 01;397;718;65;104; 0.5;0.5; 0;0;0;0
+Down Bow Character 8 02;316;719;79;103; 0.5;0.5; 0;0;0;0
+Down Bow Character 8 03;175;720;73;102; 0.5;0.5; 0;0;0;0
+Down Bow Character 8 04;399;824;69;101; 0.5;0.5; 0;0;0;0
+Down Bow Character 8 05;1;721;96;101; 0.5;0.5; 0;0;0;0
+Down Bow Character 8 06;99;721;74;101; 0.5;0.5; 0;0;0;0
+Down Bow Character 8 07;1;612;64;104; 0.5;0.5; 0;0;0;0
+Down Cast Character 8 01;397;718;65;104; 0.5;0.5; 0;0;0;0
+Down Cast Character 8 02;301;503;73;106; 0.5;0.5; 0;0;0;0
+Down Cast Character 8 03;145;391;71;109; 0.5;0.5; 0;0;0;0
+Down Cast Character 8 04;218;391;64;109; 0.5;0.5; 0;0;0;0
+Down Cast Character 8 05;376;503;64;106; 0.5;0.5; 0;0;0;0
+Down Cast Character 8 06;410;611;64;105; 0.5;0.5; 0;0;0;0
+Down Die Character 8 01;67;612;65;104; 0.5;0.5; 0;0;0;0
+Down Die Character 8 02;1;828;74;97; 0.5;0.5; 0;0;0;0
+Down Die Character 8 03;328;933;83;90; 0.5;0.5; 0;0;0;0
+Down Die Character 8 04;149;826;72;99; 0.5;0.5; 0;0;0;0
+Down Die Character 8 05;284;391;63;109; 0.5;0.5; 0;0;0;0
+Down Die Character 8 06;223;825;104;100; 0.5;0.5; 0;0;0;0
+Down Die Character 8 07;224;955;102;68; 0.5;0.5; 0;0;0;0
+Down Die Character 8 08;1;961;111;62; 0.5;0.5; 0;0;0;0
+Down Die Character 8 09;114;961;108;62; 0.5;0.5; 0;0;0;0
+Down Hurt Character 8 01;67;612;65;104; 0.5;0.5; 0;0;0;0
+Down Hurt Character 8 02;77;828;70;97; 0.5;0.5; 0;0;0;0
+Down Hurt Character 8 03;413;927;71;96; 0.5;0.5; 0;0;0;0
+Down Hurt Character 8 04;329;825;68;100; 0.5;0.5; 0;0;0;0
+Down Hurt Character 8 05;397;718;65;104; 0.5;0.5; 0;0;0;0
+Down Idle Character 8 01;134;612;65;104; 0.5;0.5; 0;0;0;0
+Down Idle Character 8 02;201;612;65;104; 0.5;0.5; 0;0;0;0
+Down Idle Character 8 03;1;504;65;105; 0.5;0.5; 0;0;0;0
+Down Idle Character 8 04;68;504;65;105; 0.5;0.5; 0;0;0;0
+Down Idle Character 8 05;135;504;65;105; 0.5;0.5; 0;0;0;0
+Down Idle Character 8 06;68;504;65;105; 0.5;0.5; 0;0;0;0
+Down Idle Character 8 07;201;612;65;104; 0.5;0.5; 0;0;0;0
+Down Run Character 8 01;136;269;64;118; 0.5;0.5; 0;0;0;0
+Down Run Character 8 02;1;271;64;116; 0.5;0.5; 0;0;0;0
+Down Run Character 8 03;349;390;64;110; 0.5;0.5; 0;0;0;0
+Down Run Character 8 04;250;720;64;102; 0.5;0.5; 0;0;0;0
+Down Run Character 8 05;79;392;64;108; 0.5;0.5; 0;0;0;0
+Down Run Character 8 06;202;269;66;118; 0.5;0.5; 0;0;0;0
+Down Run Character 8 07;67;271;67;116; 0.5;0.5; 0;0;0;0
+Down Run Character 8 08;415;389;66;111; 0.5;0.5; 0;0;0;0
+Down Run Character 8 09;268;612;64;104; 0.5;0.5; 0;0;0;0
+Down Run Character 8 10;442;502;64;107; 0.5;0.5; 0;0;0;0
+Down Swing Character 8 01;397;718;65;104; 0.5;0.5; 0;0;0;0
+Down Swing Character 8 02;334;612;74;104; 0.5;0.5; 0;0;0;0
+Down Swing Character 8 03;1;393;76;107; 0.5;0.5; 0;0;0;0
+Down Swing Character 8 04;108;92;118;149; 0.5;0.5; 0;0;0;0
+Down Swing Character 8 05;1;93;105;148; 0.5;0.5; 0;0;0;0
+Down Swing Character 8 06;202;504;97;105; 0.5;0.5; 0;0;0;0
+Down Thrust Character 8 01;397;718;65;104; 0.5;0.5; 0;0;0;0
+Down Thrust Character 8 02;341;257;70;130; 0.5;0.5; 0;0;0;0
+Down Thrust Character 8 03;270;258;69;129; 0.5;0.5; 0;0;0;0
+Down Thrust Character 8 04;309;84;77;157; 0.5;0.5; 0;0;0;0
+Down Thrust Character 8 05;228;85;79;156; 0.5;0.5; 0;0;0;0
+Down Thrust Character 8 06;413;243;74;144; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,71 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:6dda0d9ff359cfb4e796ca2563cdb776:a30f36a99faf7687aa9b899fb0ea8108:674e9144f78eb56bf8b4eee6055c1ade$
+#
+:format=40300
+:texture=Character 10 Up.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Up Bow Character 10 01;1;928;61;95; 0.5;0.5; 0;0;0;0
+Up Bow Character 10 02;64;928;60;95; 0.5;0.5; 0;0;0;0
+Up Bow Character 10 03;126;929;61;94; 0.5;0.5; 0;0;0;0
+Up Bow Character 10 04;189;929;58;94; 0.5;0.5; 0;0;0;0
+Up Bow Character 10 05;249;930;81;93; 0.5;0.5; 0;0;0;0
+Up Bow Character 10 06;332;930;62;93; 0.5;0.5; 0;0;0;0
+Up Bow Character 10 07;396;928;49;95; 0.5;0.5; 0;0;0;0
+Up Cast Character 10 01;1;928;61;95; 0.5;0.5; 0;0;0;0
+Up Cast Character 10 02;447;929;64;94; 0.5;0.5; 0;0;0;0
+Up Cast Character 10 03;1;827;53;99; 0.5;0.5; 0;0;0;0
+Up Cast Character 10 04;56;825;50;101; 0.5;0.5; 0;0;0;0
+Up Cast Character 10 05;108;823;50;103; 0.5;0.5; 0;0;0;0
+Up Cast Character 10 06;160;827;50;99; 0.5;0.5; 0;0;0;0
+Up Die Character 10 01;1;928;61;95; 0.5;0.5; 0;0;0;0
+Up Die Character 10 02;212;837;60;89; 0.5;0.5; 0;0;0;0
+Up Die Character 10 03;274;843;60;83; 0.5;0.5; 0;0;0;0
+Up Die Character 10 04;336;836;56;90; 0.5;0.5; 0;0;0;0
+Up Die Character 10 05;394;831;60;95; 0.5;0.5; 0;0;0;0
+Up Die Character 10 06;1;737;86;84; 0.5;0.5; 0;0;0;0
+Up Die Character 10 07;89;766;97;55; 0.5;0.5; 0;0;0;0
+Up Die Character 10 08;188;773;99;48; 0.5;0.5; 0;0;0;0
+Up Die Character 10 09;289;774;99;47; 0.5;0.5; 0;0;0;0
+Up Hurt Character 10 01;1;928;61;95; 0.5;0.5; 0;0;0;0
+Up Hurt Character 10 02;390;730;65;91; 0.5;0.5; 0;0;0;0
+Up Hurt Character 10 03;1;637;65;91; 0.5;0.5; 0;0;0;0
+Up Hurt Character 10 04;68;634;63;94; 0.5;0.5; 0;0;0;0
+Up Hurt Character 10 05;1;928;61;95; 0.5;0.5; 0;0;0;0
+Up Idle Character 10 01;133;633;61;95; 0.5;0.5; 0;0;0;0
+Up Idle Character 10 02;196;632;60;96; 0.5;0.5; 0;0;0;0
+Up Idle Character 10 03;258;632;59;96; 0.5;0.5; 0;0;0;0
+Up Idle Character 10 04;319;631;60;97; 0.5;0.5; 0;0;0;0
+Up Idle Character 10 05;381;631;60;97; 0.5;0.5; 0;0;0;0
+Up Idle Character 10 06;319;631;60;97; 0.5;0.5; 0;0;0;0
+Up Idle Character 10 07;196;632;60;96; 0.5;0.5; 0;0;0;0
+Up Run Character 10 01;443;617;56;111; 0.5;0.5; 0;0;0;0
+Up Run Character 10 02;1;504;56;111; 0.5;0.5; 0;0;0;0
+Up Run Character 10 03;59;512;56;103; 0.5;0.5; 0;0;0;0
+Up Run Character 10 04;117;520;56;95; 0.5;0.5; 0;0;0;0
+Up Run Character 10 05;175;513;58;102; 0.5;0.5; 0;0;0;0
+Up Run Character 10 06;235;504;57;111; 0.5;0.5; 0;0;0;0
+Up Run Character 10 07;294;502;56;113; 0.5;0.5; 0;0;0;0
+Up Run Character 10 08;352;510;56;105; 0.5;0.5; 0;0;0;0
+Up Run Character 10 09;410;520;58;95; 0.5;0.5; 0;0;0;0
+Up Run Character 10 10;1;398;58;102; 0.5;0.5; 0;0;0;0
+Up Swing Character 10 01;1;928;61;95; 0.5;0.5; 0;0;0;0
+Up Swing Character 10 02;61;402;92;98; 0.5;0.5; 0;0;0;0
+Up Swing Character 10 03;155;400;85;100; 0.5;0.5; 0;0;0;0
+Up Swing Character 10 04;242;380;126;120; 0.5;0.5; 0;0;0;0
+Up Swing Character 10 05;370;380;110;120; 0.5;0.5; 0;0;0;0
+Up Swing Character 10 06;1;280;101;98; 0.5;0.5; 0;0;0;0
+Up Thrust Character 10 01;1;928;61;95; 0.5;0.5; 0;0;0;0
+Up Thrust Character 10 02;104;270;61;108; 0.5;0.5; 0;0;0;0
+Up Thrust Character 10 03;167;279;62;99; 0.5;0.5; 0;0;0;0
+Up Thrust Character 10 04;231;244;63;134; 0.5;0.5; 0;0;0;0
+Up Thrust Character 10 05;296;244;60;134; 0.5;0.5; 0;0;0;0
+Up Thrust Character 10 06;358;224;112;154; 0.5;0.5; 0;0;0;0

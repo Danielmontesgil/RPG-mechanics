@@ -1,0 +1,1440 @@
+fileFormatVersion: 2
+guid: 8adab07854c26c84aa34b57993877658
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3010598034702345806
+    second: Up Bow Character 6 01
+  - first:
+      213: 3745983502109975339
+    second: Up Bow Character 6 02
+  - first:
+      213: -3752943102958751043
+    second: Up Bow Character 6 03
+  - first:
+      213: 1846580828507451418
+    second: Up Bow Character 6 04
+  - first:
+      213: 1456459069308040585
+    second: Up Bow Character 6 05
+  - first:
+      213: -830536589253755104
+    second: Up Bow Character 6 06
+  - first:
+      213: -7169262114454518869
+    second: Up Bow Character 6 07
+  - first:
+      213: 3336140934618023039
+    second: Up Cast Character 6 01
+  - first:
+      213: 842286116724121080
+    second: Up Cast Character 6 02
+  - first:
+      213: -7075137427854196351
+    second: Up Cast Character 6 03
+  - first:
+      213: -9199590113003038719
+    second: Up Cast Character 6 04
+  - first:
+      213: -135350816642398058
+    second: Up Cast Character 6 05
+  - first:
+      213: 1056783881647187939
+    second: Up Cast Character 6 06
+  - first:
+      213: 3662128336245747187
+    second: Up Die Character 6 01
+  - first:
+      213: -7859150255904262717
+    second: Up Die Character 6 02
+  - first:
+      213: 1534610877966594881
+    second: Up Die Character 6 03
+  - first:
+      213: -6181878636911098857
+    second: Up Die Character 6 04
+  - first:
+      213: -7015605486607989720
+    second: Up Die Character 6 05
+  - first:
+      213: 7724056948404386141
+    second: Up Die Character 6 06
+  - first:
+      213: 8279535367972168012
+    second: Up Die Character 6 07
+  - first:
+      213: -3724982914577220738
+    second: Up Die Character 6 08
+  - first:
+      213: -6492793300783598644
+    second: Up Die Character 6 09
+  - first:
+      213: -1287163011566952574
+    second: Up Hurt Character 6 01
+  - first:
+      213: -6342016749863732820
+    second: Up Hurt Character 6 02
+  - first:
+      213: 1403158401377598778
+    second: Up Hurt Character 6 03
+  - first:
+      213: -2597567830095287271
+    second: Up Hurt Character 6 04
+  - first:
+      213: 875069235045757627
+    second: Up Hurt Character 6 05
+  - first:
+      213: -6267651206636435593
+    second: Up Idle Character 6 01
+  - first:
+      213: 8023912021345621731
+    second: Up Idle Character 6 02
+  - first:
+      213: 5851643830316536050
+    second: Up Idle Character 6 03
+  - first:
+      213: 1350682376159649274
+    second: Up Idle Character 6 04
+  - first:
+      213: 6726658095639586285
+    second: Up Idle Character 6 05
+  - first:
+      213: -2795690844363727052
+    second: Up Idle Character 6 06
+  - first:
+      213: 8310412832425354547
+    second: Up Idle Character 6 07
+  - first:
+      213: -5155073529027461662
+    second: Up Run Character 6 01
+  - first:
+      213: -2893052044253163272
+    second: Up Run Character 6 02
+  - first:
+      213: 3408093886495923900
+    second: Up Run Character 6 03
+  - first:
+      213: -1447001494122375821
+    second: Up Run Character 6 04
+  - first:
+      213: 7497443589278374116
+    second: Up Run Character 6 05
+  - first:
+      213: -8155964444026016681
+    second: Up Run Character 6 06
+  - first:
+      213: -9203134755644917164
+    second: Up Run Character 6 07
+  - first:
+      213: -7894832675110960646
+    second: Up Run Character 6 08
+  - first:
+      213: 3977128621645981588
+    second: Up Run Character 6 09
+  - first:
+      213: 350222561461003320
+    second: Up Run Character 6 10
+  - first:
+      213: -102539265823452276
+    second: Up Swing Character 6 01
+  - first:
+      213: -4622500166417938980
+    second: Up Swing Character 6 02
+  - first:
+      213: -6452586287530886864
+    second: Up Swing Character 6 03
+  - first:
+      213: 5496173814825308296
+    second: Up Swing Character 6 04
+  - first:
+      213: 2474261645777912133
+    second: Up Swing Character 6 05
+  - first:
+      213: 853727333908548029
+    second: Up Swing Character 6 06
+  - first:
+      213: 4654145366818972821
+    second: Up Thrust Character 6 01
+  - first:
+      213: 4658858261347745426
+    second: Up Thrust Character 6 02
+  - first:
+      213: 8605345741217053050
+    second: Up Thrust Character 6 03
+  - first:
+      213: 7632522391410247245
+    second: Up Thrust Character 6 04
+  - first:
+      213: -9033131801899476261
+    second: Up Thrust Character 6 05
+  - first:
+      213: -5721937627253588100
+    second: Up Thrust Character 6 06
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Up Bow Character 6 01
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 716
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e462ce336fac7c920800000000000000
+      internalID: 3010598034702345806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Bow Character 6 02
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 716
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b232db9e5286cf330800000000000000
+      internalID: 3745983502109975339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Bow Character 6 03
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 824
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db234edb12edaebc0800000000000000
+      internalID: -3752943102958751043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Bow Character 6 04
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 824
+        width: 69
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10bb3cda7f50a910800000000000000
+      internalID: 1846580828507451418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Bow Character 6 05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 717
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98570009ec1663410800000000000000
+      internalID: 1456459069308040585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Bow Character 6 06
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 717
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fb0985f575974f0800000000000000
+      internalID: -830536589253755104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Bow Character 6 07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 608
+        width: 55
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3c54e571aa18c90800000000000000
+      internalID: -7169262114454518869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Cast Character 6 01
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 716
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f740c80218a5c4e20800000000000000
+      internalID: 3336140934618023039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Cast Character 6 02
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 717
+        width: 67
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd9592b2c660bb00800000000000000
+      internalID: 842286116724121080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Cast Character 6 03
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 493
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1810eabbeff00dd90800000000000000
+      internalID: -7075137427854196351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Cast Character 6 04
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 491
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1081243a88d745080800000000000000
+      internalID: -9199590113003038719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Cast Character 6 05
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 375
+        width: 56
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69888fd36232f1ef0800000000000000
+      internalID: -135350816642398058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Cast Character 6 06
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 493
+        width: 55
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e760fd57537aae00800000000000000
+      internalID: 1056783881647187939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Die Character 6 01
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 716
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fde1dba15e72d230800000000000000
+      internalID: 3662128336245747187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Die Character 6 02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 828
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5f7685b70bee290800000000000000
+      internalID: -7859150255904262717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Die Character 6 03
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 931
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14336a976780c4510800000000000000
+      internalID: 1534610877966594881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Die Character 6 04
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 827
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714865af12e853aa0800000000000000
+      internalID: -6181878636911098857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Die Character 6 05
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 825
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824037eeaff83ae90800000000000000
+      internalID: -7015605486607989720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Die Character 6 06
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 933
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59f78aeedc513b60800000000000000
+      internalID: 7724056948404386141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Die Character 6 07
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 962
+        width: 107
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41a341ec81d6e270800000000000000
+      internalID: 8279535367972168012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Die Character 6 08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 972
+        width: 110
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bb93666c33e4cc0800000000000000
+      internalID: -3724982914577220738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Die Character 6 09
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 972
+        width: 108
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3f1caa4e6f4e5a0800000000000000
+      internalID: -6492793300783598644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Hurt Character 6 01
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 716
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f97878f04132ee0800000000000000
+      internalID: -1287163011566952574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Hurt Character 6 02
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 827
+        width: 59
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca97bc01e51acf7a0800000000000000
+      internalID: -6342016749863732820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Hurt Character 6 03
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 827
+        width: 59
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d77bdb125097310800000000000000
+      internalID: 1403158401377598778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Hurt Character 6 04
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 717
+        width: 58
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c203f22d593fbd0800000000000000
+      internalID: -2597567830095287271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Hurt Character 6 05
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 716
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb276cc35ded42c00800000000000000
+      internalID: 875069235045757627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Idle Character 6 01
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 608
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777036c5f64d409a0800000000000000
+      internalID: -6267651206636435593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Idle Character 6 02
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 607
+        width: 56
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6da4d8879aa5f60800000000000000
+      internalID: 8023912021345621731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Idle Character 6 03
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 607
+        width: 56
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f09f127f07353150800000000000000
+      internalID: 5851643830316536050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Idle Character 6 04
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 606
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd506307769eb210800000000000000
+      internalID: 1350682376159649274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Idle Character 6 05
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 606
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de56a1c06e3e95d50800000000000000
+      internalID: 6726658095639586285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Idle Character 6 06
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 606
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f53ef3df5b339d0800000000000000
+      internalID: -2795690844363727052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Idle Character 6 07
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 607
+        width: 56
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335af8dc074845370800000000000000
+      internalID: 8310412832425354547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Run Character 6 01
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 367
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed7c4720ff7578b0800000000000000
+      internalID: -5155073529027461662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Run Character 6 02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 242
+        width: 59
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f092996e70d9d7d0800000000000000
+      internalID: -2893052044253163272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Run Character 6 03
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 374
+        width: 57
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe15c9355bfb4f20800000000000000
+      internalID: 3408093886495923900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Run Character 6 04
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 717
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3755061cec73bebe0800000000000000
+      internalID: -1447001494122375821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Run Character 6 05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 376
+        width: 54
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e89776a8354c0860800000000000000
+      internalID: 7497443589278374116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Run Character 6 06
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 367
+        width: 55
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cec11ec8130de80800000000000000
+      internalID: -8155964444026016681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Run Character 6 07
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 240
+        width: 55
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45abbb533b5e74080800000000000000
+      internalID: -9203134755644917164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Run Character 6 08
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 372
+        width: 55
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af14dd6b28bef6290800000000000000
+      internalID: -7894832675110960646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Run Character 6 09
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 608
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4976f3fd869913730800000000000000
+      internalID: 3977128621645981588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Run Character 6 10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 376
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834e538609d3cd400800000000000000
+      internalID: 350222561461003320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Swing Character 6 01
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 716
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83501db415b39ef0800000000000000
+      internalID: -102539265823452276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Swing Character 6 02
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 605
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd58976f69499dfb0800000000000000
+      internalID: -4622500166417938980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Swing Character 6 03
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 491
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0393a2175fec376a0800000000000000
+      internalID: -6452586287530886864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Swing Character 6 04
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 237
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8805770f6f4564c40800000000000000
+      internalID: 5496173814825308296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Swing Character 6 05
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 237
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54147fd8bd7565220800000000000000
+      internalID: 2474261645777912133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Swing Character 6 06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 494
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db909a8ac7c09db00800000000000000
+      internalID: 853727333908548029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Thrust Character 6 01
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 716
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594664a6d88d69040800000000000000
+      internalID: 4654145366818972821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Thrust Character 6 02
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 373
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29eb68ea7e697a040800000000000000
+      internalID: 4658858261347745426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Thrust Character 6 03
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 493
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79b9aacb545c6770800000000000000
+      internalID: 8605345741217053050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Thrust Character 6 04
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 230
+        width: 66
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4609381daa2ce960800000000000000
+      internalID: 7632522391410247245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Thrust Character 6 05
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 230
+        width: 64
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda5f7a5c7ed3a280800000000000000
+      internalID: -9033131801899476261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up Thrust Character 6 06
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 493
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fbb9c4b089790b0800000000000000
+      internalID: -5721937627253588100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

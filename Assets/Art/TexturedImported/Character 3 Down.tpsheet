@@ -1,0 +1,71 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4bdba97c6f856e7c2627fea39263f132:dfb743357b4495d5109066d8e8df1e31:f379f209a5a7a5ea706421cc1ab19d93$
+#
+:format=40300
+:texture=Character 3 Down.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Down Bow Character 3 01;241;734;56;100; 0.5;0.5; 0;0;0;0
+Down Bow Character 3 02;61;736;63;98; 0.5;0.5; 0;0;0;0
+Down Bow Character 3 03;183;836;62;97; 0.5;0.5; 0;0;0;0
+Down Bow Character 3 04;247;836;56;97; 0.5;0.5; 0;0;0;0
+Down Bow Character 3 05;305;836;81;97; 0.5;0.5; 0;0;0;0
+Down Bow Character 3 06;388;836;64;97; 0.5;0.5; 0;0;0;0
+Down Bow Character 3 07;126;735;57;99; 0.5;0.5; 0;0;0;0
+Down Cast Character 3 01;241;734;56;100; 0.5;0.5; 0;0;0;0
+Down Cast Character 3 02;1;631;73;101; 0.5;0.5; 0;0;0;0
+Down Cast Character 3 03;233;525;71;104; 0.5;0.5; 0;0;0;0
+Down Cast Character 3 04;306;525;51;104; 0.5;0.5; 0;0;0;0
+Down Cast Character 3 05;64;526;50;103; 0.5;0.5; 0;0;0;0
+Down Cast Character 3 06;76;631;52;101; 0.5;0.5; 0;0;0;0
+Down Die Character 3 01;299;734;56;100; 0.5;0.5; 0;0;0;0
+Down Die Character 3 02;124;838;57;95; 0.5;0.5; 0;0;0;0
+Down Die Character 3 03;417;935;63;88; 0.5;0.5; 0;0;0;0
+Down Die Character 3 04;454;836;56;97; 0.5;0.5; 0;0;0;0
+Down Die Character 3 05;116;526;59;103; 0.5;0.5; 0;0;0;0
+Down Die Character 3 06;317;944;98;79; 0.5;0.5; 0;0;0;0
+Down Die Character 3 07;213;971;102;52; 0.5;0.5; 0;0;0;0
+Down Die Character 3 08;1;973;105;50; 0.5;0.5; 0;0;0;0
+Down Die Character 3 09;108;973;103;50; 0.5;0.5; 0;0;0;0
+Down Hurt Character 3 01;299;734;56;100; 0.5;0.5; 0;0;0;0
+Down Hurt Character 3 02;1;839;59;94; 0.5;0.5; 0;0;0;0
+Down Hurt Character 3 03;62;839;60;94; 0.5;0.5; 0;0;0;0
+Down Hurt Character 3 04;1;737;58;97; 0.5;0.5; 0;0;0;0
+Down Hurt Character 3 05;241;734;56;100; 0.5;0.5; 0;0;0;0
+Down Idle Character 3 01;357;734;56;100; 0.5;0.5; 0;0;0;0
+Down Idle Character 3 02;415;734;55;100; 0.5;0.5; 0;0;0;0
+Down Idle Character 3 03;130;631;55;101; 0.5;0.5; 0;0;0;0
+Down Idle Character 3 04;187;631;55;101; 0.5;0.5; 0;0;0;0
+Down Idle Character 3 05;244;631;55;101; 0.5;0.5; 0;0;0;0
+Down Idle Character 3 06;187;631;55;101; 0.5;0.5; 0;0;0;0
+Down Idle Character 3 07;415;734;55;100; 0.5;0.5; 0;0;0;0
+Down Run Character 3 01;230;409;55;114; 0.5;0.5; 0;0;0;0
+Down Run Character 3 02;172;410;56;113; 0.5;0.5; 0;0;0;0
+Down Run Character 3 03;1;418;55;105; 0.5;0.5; 0;0;0;0
+Down Run Character 3 04;185;735;54;99; 0.5;0.5; 0;0;0;0
+Down Run Character 3 05;359;525;53;104; 0.5;0.5; 0;0;0;0
+Down Run Character 3 06;287;408;54;115; 0.5;0.5; 0;0;0;0
+Down Run Character 3 07;115;411;55;112; 0.5;0.5; 0;0;0;0
+Down Run Character 3 08;58;415;55;108; 0.5;0.5; 0;0;0;0
+Down Run Character 3 09;301;631;53;101; 0.5;0.5; 0;0;0;0
+Down Run Character 3 10;177;526;54;103; 0.5;0.5; 0;0;0;0
+Down Swing Character 3 01;241;734;56;100; 0.5;0.5; 0;0;0;0
+Down Swing Character 3 02;1;527;61;102; 0.5;0.5; 0;0;0;0
+Down Swing Character 3 03;414;525;67;104; 0.5;0.5; 0;0;0;0
+Down Swing Character 3 04;180;252;118;145; 0.5;0.5; 0;0;0;0
+Down Swing Character 3 05;71;254;107;143; 0.5;0.5; 0;0;0;0
+Down Swing Character 3 06;356;631;99;101; 0.5;0.5; 0;0;0;0
+Down Thrust Character 3 01;241;734;56;100; 0.5;0.5; 0;0;0;0
+Down Thrust Character 3 02;414;399;70;124; 0.5;0.5; 0;0;0;0
+Down Thrust Character 3 03;343;400;69;123; 0.5;0.5; 0;0;0;0
+Down Thrust Character 3 04;300;244;68;153; 0.5;0.5; 0;0;0;0
+Down Thrust Character 3 05;370;244;69;153; 0.5;0.5; 0;0;0;0
+Down Thrust Character 3 06;1;257;68;140; 0.5;0.5; 0;0;0;0

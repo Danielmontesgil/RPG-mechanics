@@ -1,0 +1,95 @@
+version: 2
+tpsheetFileNames:
+- Assets/Art/TexturedImported/Character 1 Down.tpsheet
+- Assets/Art/TexturedImported/Character 1 Side.tpsheet
+- Assets/Art/TexturedImported/Character 1 Up.tpsheet
+- Assets/Art/TexturedImported/Character 10 Down.tpsheet
+- Assets/Art/TexturedImported/Character 10 Side.tpsheet
+- Assets/Art/TexturedImported/Character 10 Up.tpsheet
+- Assets/Art/TexturedImported/Character 2 Down.tpsheet
+- Assets/Art/TexturedImported/Character 2 Side.tpsheet
+- Assets/Art/TexturedImported/Character 2 Up.tpsheet
+- Assets/Art/TexturedImported/Character 3 Down.tpsheet
+- Assets/Art/TexturedImported/Character 3 Side.tpsheet
+- Assets/Art/TexturedImported/Character 3 Up.tpsheet
+- Assets/Art/TexturedImported/Character 4 Down.tpsheet
+- Assets/Art/TexturedImported/Character 4 Side.tpsheet
+- Assets/Art/TexturedImported/Character 4 Up.tpsheet
+- Assets/Art/TexturedImported/Character 5 Down.tpsheet
+- Assets/Art/TexturedImported/Character 5 Side.tpsheet
+- Assets/Art/TexturedImported/Character 5 Up.tpsheet
+- Assets/Art/TexturedImported/Character 6 Down.tpsheet
+- Assets/Art/TexturedImported/Character 6 Side.tpsheet
+- Assets/Art/TexturedImported/Character 6 Up.tpsheet
+- Assets/Art/TexturedImported/Character 7 Down.tpsheet
+- Assets/Art/TexturedImported/Character 7 Side.tpsheet
+- Assets/Art/TexturedImported/Character 7 Up.tpsheet
+- Assets/Art/TexturedImported/Character 8 Down.tpsheet
+- Assets/Art/TexturedImported/Character 8 Side.tpsheet
+- Assets/Art/TexturedImported/Character 8 Up.tpsheet
+- Assets/Art/TexturedImported/Character 9 Down.tpsheet
+- Assets/Art/TexturedImported/Character 9 Side.tpsheet
+- Assets/Art/TexturedImported/Character 9 Up.tpsheet
+textureFileNames:
+- Assets/Art/TexturedImported/Character 1 Down.png
+- Assets/Art/TexturedImported/Character 1 Side.png
+- Assets/Art/TexturedImported/Character 1 Up.png
+- Assets/Art/TexturedImported/Character 10 Down.png
+- Assets/Art/TexturedImported/Character 10 Side.png
+- Assets/Art/TexturedImported/Character 10 Up.png
+- Assets/Art/TexturedImported/Character 2 Down.png
+- Assets/Art/TexturedImported/Character 2 Side.png
+- Assets/Art/TexturedImported/Character 2 Up.png
+- Assets/Art/TexturedImported/Character 3 Down.png
+- Assets/Art/TexturedImported/Character 3 Side.png
+- Assets/Art/TexturedImported/Character 3 Up.png
+- Assets/Art/TexturedImported/Character 4 Down.png
+- Assets/Art/TexturedImported/Character 4 Side.png
+- Assets/Art/TexturedImported/Character 4 Up.png
+- Assets/Art/TexturedImported/Character 5 Down.png
+- Assets/Art/TexturedImported/Character 5 Side.png
+- Assets/Art/TexturedImported/Character 5 Up.png
+- Assets/Art/TexturedImported/Character 6 Down.png
+- Assets/Art/TexturedImported/Character 6 Side.png
+- Assets/Art/TexturedImported/Character 6 Up.png
+- Assets/Art/TexturedImported/Character 7 Down.png
+- Assets/Art/TexturedImported/Character 7 Side.png
+- Assets/Art/TexturedImported/Character 7 Up.png
+- Assets/Art/TexturedImported/Character 8 Down.png
+- Assets/Art/TexturedImported/Character 8 Side.png
+- Assets/Art/TexturedImported/Character 8 Up.png
+- Assets/Art/TexturedImported/Character 9 Down.png
+- Assets/Art/TexturedImported/Character 9 Side.png
+- Assets/Art/TexturedImported/Character 9 Up.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

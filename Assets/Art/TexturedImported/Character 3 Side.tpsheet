@@ -1,0 +1,80 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:efcc04457b7f42d6e11cb4572d9ac3de:751b457995ed4644424b051fd2c1cbfc:d4550c88a2c4aa9d262ba358402479b7$
+#
+:format=40300
+:texture=Character 3 Side.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Side Bow Character 3 01;1;914;52;109; 0.5;0.5; 0;0;0;0
+Side Bow Character 3 02;55;913;54;110; 0.5;0.5; 0;0;0;0
+Side Bow Character 3 03;111;913;58;110; 0.5;0.5; 0;0;0;0
+Side Bow Character 3 04;171;914;60;109; 0.5;0.5; 0;0;0;0
+Side Bow Character 3 05;233;914;60;109; 0.5;0.5; 0;0;0;0
+Side Bow Character 3 06;295;914;58;109; 0.5;0.5; 0;0;0;0
+Side Bow Character 3 07;355;914;53;109; 0.5;0.5; 0;0;0;0
+Side Cast Character 3 01;1;914;52;109; 0.5;0.5; 0;0;0;0
+Side Cast Character 3 02;410;913;58;110; 0.5;0.5; 0;0;0;0
+Side Cast Character 3 03;1;805;58;106; 0.5;0.5; 0;0;0;0
+Side Cast Character 3 04;61;805;67;106; 0.5;0.5; 0;0;0;0
+Side Cast Character 3 05;130;805;66;106; 0.5;0.5; 0;0;0;0
+Side Cast Character 3 06;198;802;60;109; 0.5;0.5; 0;0;0;0
+Side Die Character 3 01;260;802;52;109; 0.5;0.5; 0;0;0;0
+Side Die Character 3 02;314;801;53;110; 0.5;0.5; 0;0;0;0
+Side Die Character 3 03;369;807;66;104; 0.5;0.5; 0;0;0;0
+Side Die Character 3 04;437;797;62;114; 0.5;0.5; 0;0;0;0
+Side Die Character 3 05;1;697;80;98; 0.5;0.5; 0;0;0;0
+Side Die Character 3 06;83;736;117;59; 0.5;0.5; 0;0;0;0
+Side Die Character 3 07;202;739;104;56; 0.5;0.5; 0;0;0;0
+Side Die Character 3 08;308;742;108;53; 0.5;0.5; 0;0;0;0
+Side Die Character 3 09;1;643;109;52; 0.5;0.5; 0;0;0;0
+Side Hurt Character 3 01;260;802;52;109; 0.5;0.5; 0;0;0;0
+Side Hurt Character 3 02;112;591;54;104; 0.5;0.5; 0;0;0;0
+Side Hurt Character 3 03;112;591;54;104; 0.5;0.5; 0;0;0;0
+Side Hurt Character 3 04;168;588;53;107; 0.5;0.5; 0;0;0;0
+Side Hurt Character 3 05;1;914;52;109; 0.5;0.5; 0;0;0;0
+Side Idle Character 3 01;223;586;52;109; 0.5;0.5; 0;0;0;0
+Side Idle Character 3 02;277;585;53;110; 0.5;0.5; 0;0;0;0
+Side Idle Character 3 03;332;585;52;110; 0.5;0.5; 0;0;0;0
+Side Idle Character 3 04;386;585;52;110; 0.5;0.5; 0;0;0;0
+Side Idle Character 3 05;440;584;52;111; 0.5;0.5; 0;0;0;0
+Side Idle Character 3 06;386;585;52;110; 0.5;0.5; 0;0;0;0
+Side Idle Character 3 07;277;585;53;110; 0.5;0.5; 0;0;0;0
+Side Pickup Character 3 01;1;914;52;109; 0.5;0.5; 0;0;0;0
+Side Pickup Character 3 02;1;472;54;110; 0.5;0.5; 0;0;0;0
+Side Pickup Character 3 03;57;472;57;110; 0.5;0.5; 0;0;0;0
+Side Pickup Character 3 04;116;473;53;109; 0.5;0.5; 0;0;0;0
+Side Pickup Character 3 05;171;477;65;105; 0.5;0.5; 0;0;0;0
+Side Pickup Character 3 06;238;477;67;105; 0.5;0.5; 0;0;0;0
+Side Pickup Character 3 07;307;477;69;105; 0.5;0.5; 0;0;0;0
+Side Pickup Character 3 08;378;474;61;108; 0.5;0.5; 0;0;0;0
+Side Pickup Character 3 09;441;473;53;109; 0.5;0.5; 0;0;0;0
+Side Run Character 3 01;1;371;58;99; 0.5;0.5; 0;0;0;0
+Side Run Character 3 02;61;373;58;97; 0.5;0.5; 0;0;0;0
+Side Run Character 3 03;121;371;55;99; 0.5;0.5; 0;0;0;0
+Side Run Character 3 04;178;367;53;103; 0.5;0.5; 0;0;0;0
+Side Run Character 3 05;233;361;53;109; 0.5;0.5; 0;0;0;0
+Side Run Character 3 06;288;360;57;110; 0.5;0.5; 0;0;0;0
+Side Run Character 3 07;347;370;64;100; 0.5;0.5; 0;0;0;0
+Side Run Character 3 08;413;374;62;96; 0.5;0.5; 0;0;0;0
+Side Run Character 3 09;1;252;53;106; 0.5;0.5; 0;0;0;0
+Side Run Character 3 10;56;257;53;101; 0.5;0.5; 0;0;0;0
+Side Swing Character 3 01;1;914;52;109; 0.5;0.5; 0;0;0;0
+Side Swing Character 3 02;111;247;55;111; 0.5;0.5; 0;0;0;0
+Side Swing Character 3 03;168;251;56;107; 0.5;0.5; 0;0;0;0
+Side Swing Character 3 04;226;231;110;127; 0.5;0.5; 0;0;0;0
+Side Swing Character 3 05;338;226;109;132; 0.5;0.5; 0;0;0;0
+Side Swing Character 3 06;449;230;55;128; 0.5;0.5; 0;0;0;0
+Side Thrust Character 3 01;1;914;52;109; 0.5;0.5; 0;0;0;0
+Side Thrust Character 3 02;1;113;108;111; 0.5;0.5; 0;0;0;0
+Side Thrust Character 3 03;111;117;108;107; 0.5;0.5; 0;0;0;0
+Side Thrust Character 3 04;221;118;136;106; 0.5;0.5; 0;0;0;0
+Side Thrust Character 3 05;359;118;135;106; 0.5;0.5; 0;0;0;0
+Side Thrust Character 3 06;1;2;108;109; 0.5;0.5; 0;0;0;0

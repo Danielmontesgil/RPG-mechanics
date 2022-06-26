@@ -1,0 +1,71 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ac634bba088b4e6a6b8aa08c8007af3e:90d7b99b12465ebb5cd8e7045578e269:a637686037761ef50d35138844cf38fc$
+#
+:format=40300
+:texture=Character 7 Up.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Up Bow Character 7 01;252;744;61;94; 0.5;0.5; 0;0;0;0
+Up Bow Character 7 02;67;745;60;93; 0.5;0.5; 0;0;0;0
+Up Bow Character 7 03;129;745;61;93; 0.5;0.5; 0;0;0;0
+Up Bow Character 7 04;197;840;58;92; 0.5;0.5; 0;0;0;0
+Up Bow Character 7 05;257;840;81;92; 0.5;0.5; 0;0;0;0
+Up Bow Character 7 06;340;840;62;92; 0.5;0.5; 0;0;0;0
+Up Bow Character 7 07;315;744;57;94; 0.5;0.5; 0;0;0;0
+Up Cast Character 7 01;252;744;61;94; 0.5;0.5; 0;0;0;0
+Up Cast Character 7 02;374;744;64;94; 0.5;0.5; 0;0;0;0
+Up Cast Character 7 03;162;543;57;99; 0.5;0.5; 0;0;0;0
+Up Cast Character 7 04;383;541;58;101; 0.5;0.5; 0;0;0;0
+Up Cast Character 7 05;64;436;57;103; 0.5;0.5; 0;0;0;0
+Up Cast Character 7 06;419;644;57;98; 0.5;0.5; 0;0;0;0
+Up Die Character 7 01;252;744;61;94; 0.5;0.5; 0;0;0;0
+Up Die Character 7 02;443;934;60;89; 0.5;0.5; 0;0;0;0
+Up Die Character 7 03;382;941;59;82; 0.5;0.5; 0;0;0;0
+Up Die Character 7 04;1;842;59;90; 0.5;0.5; 0;0;0;0
+Up Die Character 7 05;404;840;60;92; 0.5;0.5; 0;0;0;0
+Up Die Character 7 06;298;943;82;80; 0.5;0.5; 0;0;0;0
+Up Die Character 7 07;1;966;97;57; 0.5;0.5; 0;0;0;0
+Up Die Character 7 08;100;966;98;57; 0.5;0.5; 0;0;0;0
+Up Die Character 7 09;200;966;96;57; 0.5;0.5; 0;0;0;0
+Up Hurt Character 7 01;252;744;61;94; 0.5;0.5; 0;0;0;0
+Up Hurt Character 7 02;130;841;65;91; 0.5;0.5; 0;0;0;0
+Up Hurt Character 7 03;62;842;66;90; 0.5;0.5; 0;0;0;0
+Up Hurt Character 7 04;1;746;64;92; 0.5;0.5; 0;0;0;0
+Up Hurt Character 7 05;252;744;61;94; 0.5;0.5; 0;0;0;0
+Up Idle Character 7 01;440;744;61;94; 0.5;0.5; 0;0;0;0
+Up Idle Character 7 02;1;648;60;94; 0.5;0.5; 0;0;0;0
+Up Idle Character 7 03;123;646;60;96; 0.5;0.5; 0;0;0;0
+Up Idle Character 7 04;185;646;60;96; 0.5;0.5; 0;0;0;0
+Up Idle Character 7 05;247;646;60;96; 0.5;0.5; 0;0;0;0
+Up Idle Character 7 06;185;646;60;96; 0.5;0.5; 0;0;0;0
+Up Idle Character 7 07;1;648;60;94; 0.5;0.5; 0;0;0;0
+Up Run Character 7 01;310;429;61;110; 0.5;0.5; 0;0;0;0
+Up Run Character 7 02;373;428;61;111; 0.5;0.5; 0;0;0;0
+Up Run Character 7 03;123;436;60;103; 0.5;0.5; 0;0;0;0
+Up Run Character 7 04;192;745;58;93; 0.5;0.5; 0;0;0;0
+Up Run Character 7 05;443;541;59;101; 0.5;0.5; 0;0;0;0
+Up Run Character 7 06;436;428;60;111; 0.5;0.5; 0;0;0;0
+Up Run Character 7 07;1;314;60;112; 0.5;0.5; 0;0;0;0
+Up Run Character 7 08;185;434;59;105; 0.5;0.5; 0;0;0;0
+Up Run Character 7 09;63;648;58;94; 0.5;0.5; 0;0;0;0
+Up Run Character 7 10;1;438;61;101; 0.5;0.5; 0;0;0;0
+Up Swing Character 7 01;252;744;61;94; 0.5;0.5; 0;0;0;0
+Up Swing Character 7 02;1;544;97;98; 0.5;0.5; 0;0;0;0
+Up Swing Character 7 03;286;542;95;100; 0.5;0.5; 0;0;0;0
+Up Swing Character 7 04;63;300;131;126; 0.5;0.5; 0;0;0;0
+Up Swing Character 7 05;196;300;118;126; 0.5;0.5; 0;0;0;0
+Up Swing Character 7 06;309;646;108;96; 0.5;0.5; 0;0;0;0
+Up Thrust Character 7 01;252;744;61;94; 0.5;0.5; 0;0;0;0
+Up Thrust Character 7 02;246;431;62;108; 0.5;0.5; 0;0;0;0
+Up Thrust Character 7 03;221;543;63;99; 0.5;0.5; 0;0;0;0
+Up Thrust Character 7 04;316;292;64;134; 0.5;0.5; 0;0;0;0
+Up Thrust Character 7 05;382;292;62;134; 0.5;0.5; 0;0;0;0
+Up Thrust Character 7 06;100;544;60;98; 0.5;0.5; 0;0;0;0

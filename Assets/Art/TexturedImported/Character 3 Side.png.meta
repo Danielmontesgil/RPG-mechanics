@@ -1,0 +1,1656 @@
+fileFormatVersion: 2
+guid: e4e09de85a810844ca12b9f01d46341d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2114317975301909370
+    second: Side Bow Character 3 01
+  - first:
+      213: -1452091112479114186
+    second: Side Bow Character 3 02
+  - first:
+      213: -696825689917967869
+    second: Side Bow Character 3 03
+  - first:
+      213: 1443089496722049929
+    second: Side Bow Character 3 04
+  - first:
+      213: -6434056349071018932
+    second: Side Bow Character 3 05
+  - first:
+      213: 8537972891768057707
+    second: Side Bow Character 3 06
+  - first:
+      213: -7814129242827925556
+    second: Side Bow Character 3 07
+  - first:
+      213: -3901131674258334304
+    second: Side Cast Character 3 01
+  - first:
+      213: 6717596455668509680
+    second: Side Cast Character 3 02
+  - first:
+      213: 7628413483150205922
+    second: Side Cast Character 3 03
+  - first:
+      213: -126380216800697580
+    second: Side Cast Character 3 04
+  - first:
+      213: 4888106851867659269
+    second: Side Cast Character 3 05
+  - first:
+      213: 4991497691823802882
+    second: Side Cast Character 3 06
+  - first:
+      213: -3489126758092555577
+    second: Side Die Character 3 01
+  - first:
+      213: -4835700847846924278
+    second: Side Die Character 3 02
+  - first:
+      213: 8518845147002821626
+    second: Side Die Character 3 03
+  - first:
+      213: -6612136025246859014
+    second: Side Die Character 3 04
+  - first:
+      213: 5807962310489798315
+    second: Side Die Character 3 05
+  - first:
+      213: -2829885841596535519
+    second: Side Die Character 3 06
+  - first:
+      213: -5966860321031658864
+    second: Side Die Character 3 07
+  - first:
+      213: 9080215169447765102
+    second: Side Die Character 3 08
+  - first:
+      213: -6874183745291147806
+    second: Side Die Character 3 09
+  - first:
+      213: 6969477376578314489
+    second: Side Hurt Character 3 01
+  - first:
+      213: -3308481339037514395
+    second: Side Hurt Character 3 02
+  - first:
+      213: -2701506657571150867
+    second: Side Hurt Character 3 03
+  - first:
+      213: -8531476533613783766
+    second: Side Hurt Character 3 04
+  - first:
+      213: -3497598162335532278
+    second: Side Hurt Character 3 05
+  - first:
+      213: -3984446374557380620
+    second: Side Idle Character 3 01
+  - first:
+      213: 6797633832404642303
+    second: Side Idle Character 3 02
+  - first:
+      213: -6177603818525011579
+    second: Side Idle Character 3 03
+  - first:
+      213: -8177752688363673603
+    second: Side Idle Character 3 04
+  - first:
+      213: -1964448194744844424
+    second: Side Idle Character 3 05
+  - first:
+      213: 7483937438115667316
+    second: Side Idle Character 3 06
+  - first:
+      213: -3047721978814633467
+    second: Side Idle Character 3 07
+  - first:
+      213: 4835016589846307480
+    second: Side Pickup Character 3 01
+  - first:
+      213: 3971659875834292504
+    second: Side Pickup Character 3 02
+  - first:
+      213: -2733217394444357862
+    second: Side Pickup Character 3 03
+  - first:
+      213: -5143852090937003517
+    second: Side Pickup Character 3 04
+  - first:
+      213: -6097279824668761875
+    second: Side Pickup Character 3 05
+  - first:
+      213: 6027355682876309587
+    second: Side Pickup Character 3 06
+  - first:
+      213: 2896239243695308483
+    second: Side Pickup Character 3 07
+  - first:
+      213: 708157262854397461
+    second: Side Pickup Character 3 08
+  - first:
+      213: -7657297103646024665
+    second: Side Pickup Character 3 09
+  - first:
+      213: -2895952397085914355
+    second: Side Run Character 3 01
+  - first:
+      213: -1127762998524218128
+    second: Side Run Character 3 02
+  - first:
+      213: 4991551401909028161
+    second: Side Run Character 3 03
+  - first:
+      213: -3673524244848193380
+    second: Side Run Character 3 04
+  - first:
+      213: -54051973081451810
+    second: Side Run Character 3 05
+  - first:
+      213: 4046797732305033144
+    second: Side Run Character 3 06
+  - first:
+      213: -1930160921709904795
+    second: Side Run Character 3 07
+  - first:
+      213: 3378336614964087991
+    second: Side Run Character 3 08
+  - first:
+      213: -1620612679114980287
+    second: Side Run Character 3 09
+  - first:
+      213: -4591283251261638804
+    second: Side Run Character 3 10
+  - first:
+      213: -8027681815662851088
+    second: Side Swing Character 3 01
+  - first:
+      213: 6676047400784428764
+    second: Side Swing Character 3 02
+  - first:
+      213: -5281466741021367360
+    second: Side Swing Character 3 03
+  - first:
+      213: 339856055223493575
+    second: Side Swing Character 3 04
+  - first:
+      213: -4478469340426741261
+    second: Side Swing Character 3 05
+  - first:
+      213: -8136958739503364810
+    second: Side Swing Character 3 06
+  - first:
+      213: -3259726332836899996
+    second: Side Thrust Character 3 01
+  - first:
+      213: -6421230467371647208
+    second: Side Thrust Character 3 02
+  - first:
+      213: 957547512348259535
+    second: Side Thrust Character 3 03
+  - first:
+      213: -4950056814979257670
+    second: Side Thrust Character 3 04
+  - first:
+      213: -4504834257339890205
+    second: Side Thrust Character 3 05
+  - first:
+      213: 6998072833854442950
+    second: Side Thrust Character 3 06
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Side Bow Character 3 01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 914
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68418ebe00f68a2e0800000000000000
+      internalID: -2114317975301909370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Bow Character 3 02
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 913
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c3e23a3d229dbe0800000000000000
+      internalID: -1452091112479114186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Bow Character 3 03
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 913
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302b21a1ab06456f0800000000000000
+      internalID: -696825689917967869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Bow Character 3 04
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 914
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b073f5042e60410800000000000000
+      internalID: 1443089496722049929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Bow Character 3 05
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 914
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4476c0f6d3a5b6a0800000000000000
+      internalID: -6434056349071018932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Bow Character 3 06
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 914
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fefb3eb19fc7670800000000000000
+      internalID: 8537972891768057707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Bow Character 3 07
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 914
+        width: 53
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7df3ccad2ae8390800000000000000
+      internalID: -7814129242827925556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Cast Character 3 01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 914
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad9ecd49656cd9c0800000000000000
+      internalID: -3901131674258334304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Cast Character 3 02
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 913
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb6b849262b93d50800000000000000
+      internalID: 6717596455668509680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Cast Character 3 03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 805
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3e7f655a19dd960800000000000000
+      internalID: 7628413483150205922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Cast Character 3 04
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 805
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41325f6ccd10f3ef0800000000000000
+      internalID: -126380216800697580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Cast Character 3 05
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 805
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c89b1984b06d340800000000000000
+      internalID: 4888106851867659269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Cast Character 3 06
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 802
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a075264bc554540800000000000000
+      internalID: 4991497691823802882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Die Character 3 01
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 802
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca359f13b1249fc0800000000000000
+      internalID: -3489126758092555577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Die Character 3 02
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 801
+        width: 53
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00670413b324ecb0800000000000000
+      internalID: -4835700847846924278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Die Character 3 03
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 807
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbd9a3c684093670800000000000000
+      internalID: 8518845147002821626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Die Character 3 04
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 797
+        width: 62
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af009905159fc34a0800000000000000
+      internalID: -6612136025246859014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Die Character 3 05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 697
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6f99113f60a9050800000000000000
+      internalID: 5807962310489798315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Die Character 3 06
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 736
+        width: 117
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d2bb802d93ab8d0800000000000000
+      internalID: -2829885841596535519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Die Character 3 07
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 739
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092e88cd624713da0800000000000000
+      internalID: -5966860321031658864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Die Character 3 08
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 742
+        width: 108
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e642c0b6697630e70800000000000000
+      internalID: 9080215169447765102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Die Character 3 09
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 643
+        width: 109
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5282dfd4ef990a0800000000000000
+      internalID: -6874183745291147806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Hurt Character 3 01
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 802
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f062158fbe88b060800000000000000
+      internalID: 6969477376578314489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Hurt Character 3 02
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 591
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56509a050c9e512d0800000000000000
+      internalID: -3308481339037514395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Hurt Character 3 03
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 591
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de36e151202528ad0800000000000000
+      internalID: -2701506657571150867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Hurt Character 3 04
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 588
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a259e5c5b4b1a9980800000000000000
+      internalID: -8531476533613783766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Hurt Character 3 05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 914
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b7eee9009067fc0800000000000000
+      internalID: -3497598162335532278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Idle Character 3 01
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 586
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff0ae1022764b8c0800000000000000
+      internalID: -3984446374557380620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Idle Character 3 02
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 585
+        width: 53
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9e7a584fb065e50800000000000000
+      internalID: 6797633832404642303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Idle Character 3 03
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 585
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58158b1be0eb44aa0800000000000000
+      internalID: -6177603818525011579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Idle Character 3 04
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 585
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7661de149c28e80800000000000000
+      internalID: -8177752688363673603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Idle Character 3 05
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 584
+        width: 52
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f739466c0ecb4e0800000000000000
+      internalID: -1964448194744844424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Idle Character 3 06
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 585
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d9128c2794cd760800000000000000
+      internalID: 7483937438115667316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Idle Character 3 07
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 585
+        width: 53
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a6a9ef10154b5d0800000000000000
+      internalID: -3047721978814633467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Pickup Character 3 01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 914
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892e8e0b8fd691340800000000000000
+      internalID: 4835016589846307480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Pickup Character 3 02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 472
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81966c34d9b2e1730800000000000000
+      internalID: 3971659875834292504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Pickup Character 3 03
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 472
+        width: 57
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fa93ec249a11ad0800000000000000
+      internalID: -2733217394444357862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Pickup Character 3 04
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 473
+        width: 53
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302bc8ec6cd5d98b0800000000000000
+      internalID: -5143852090937003517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Pickup Character 3 05
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 477
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de06672ed4c126ba0800000000000000
+      internalID: -6097279824668761875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Pickup Character 3 06
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 477
+        width: 67
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35046cc2f0875a350800000000000000
+      internalID: 6027355682876309587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Pickup Character 3 07
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 477
+        width: 69
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce31094f32813820800000000000000
+      internalID: 2896239243695308483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Pickup Character 3 08
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 474
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e9c815741e3d900800000000000000
+      internalID: 708157262854397461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Pickup Character 3 09
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 473
+        width: 53
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c1d85bad0dbb590800000000000000
+      internalID: -7657297103646024665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Run Character 3 01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 371
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bc04563a28fc7d0800000000000000
+      internalID: -2895952397085914355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Run Character 3 02
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 373
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4722a27816950f0800000000000000
+      internalID: -1127762998524218128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Run Character 3 03
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 371
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14504ecbd8d854540800000000000000
+      internalID: 4991551401909028161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Run Character 3 04
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 367
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90d9089925050dc0800000000000000
+      internalID: -3673524244848193380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Run Character 3 05
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 361
+        width: 53
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed232115408ff3ff0800000000000000
+      internalID: -54051973081451810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Run Character 3 06
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 57
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7d5efb81d192830800000000000000
+      internalID: 4046797732305033144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Run Character 3 07
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 370
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cf32e3ed0b635e0800000000000000
+      internalID: -1930160921709904795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Run Character 3 08
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 374
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc41aa804342ee20800000000000000
+      internalID: 3378336614964087991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Run Character 3 09
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 252
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1448bdeca5d6289e0800000000000000
+      internalID: -1620612679114980287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Run Character 3 10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 257
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c677959653c7840c0800000000000000
+      internalID: -4591283251261638804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Swing Character 3 01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 914
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb8d8fcbe1f79090800000000000000
+      internalID: -8027681815662851088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Swing Character 3 02
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 247
+        width: 55
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdefc636db516ac50800000000000000
+      internalID: 6676047400784428764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Swing Character 3 03
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 251
+        width: 56
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3a1604bf574b6b0800000000000000
+      internalID: -5281466741021367360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Swing Character 3 04
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 231
+        width: 110
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3ac56184967b400800000000000000
+      internalID: 339856055223493575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Swing Character 3 05
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 226
+        width: 109
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9d262ecd749d1c0800000000000000
+      internalID: -4478469340426741261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Swing Character 3 06
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 230
+        width: 55
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63544eb4327b31f80800000000000000
+      internalID: -8136958739503364810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Thrust Character 3 01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 914
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463154acb2023c2d0800000000000000
+      internalID: -3259726332836899996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Thrust Character 3 02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fb56b39e433e6a0800000000000000
+      internalID: -6421230467371647208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Thrust Character 3 03
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 117
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4b311a364e94d00800000000000000
+      internalID: 957547512348259535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Thrust Character 3 04
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 118
+        width: 136
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abae825ad8ddd4bb0800000000000000
+      internalID: -4950056814979257670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Thrust Character 3 05
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 118
+        width: 135
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5ce3f4c1d9b71c0800000000000000
+      internalID: -4504834257339890205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Thrust Character 3 06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd843e3a262e1160800000000000000
+      internalID: 6998072833854442950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

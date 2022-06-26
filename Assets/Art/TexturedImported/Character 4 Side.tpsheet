@@ -1,0 +1,80 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:b35754f0c552f524ed5bf7d3715ada99:405d0847295ef17ecc572461b7a2e2ed:21d71d93d36251787d2a7099a2a00343$
+#
+:format=40300
+:texture=Character 4 Side.png
+:size=1024x512
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Side Bow Character 4 01;250;182;53;111; 0.5;0.5; 0;0;0;0
+Side Bow Character 4 02;305;182;54;111; 0.5;0.5; 0;0;0;0
+Side Bow Character 4 03;361;182;58;111; 0.5;0.5; 0;0;0;0
+Side Bow Character 4 04;421;182;62;111; 0.5;0.5; 0;0;0;0
+Side Bow Character 4 05;485;182;61;111; 0.5;0.5; 0;0;0;0
+Side Bow Character 4 06;548;182;59;111; 0.5;0.5; 0;0;0;0
+Side Bow Character 4 07;609;182;53;111; 0.5;0.5; 0;0;0;0
+Side Cast Character 4 01;250;182;53;111; 0.5;0.5; 0;0;0;0
+Side Cast Character 4 02;344;68;58;112; 0.5;0.5; 0;0;0;0
+Side Cast Character 4 03;584;296;57;109; 0.5;0.5; 0;0;0;0
+Side Cast Character 4 04;114;297;67;108; 0.5;0.5; 0;0;0;0
+Side Cast Character 4 05;183;297;66;108; 0.5;0.5; 0;0;0;0
+Side Cast Character 4 06;664;182;60;111; 0.5;0.5; 0;0;0;0
+Side Die Character 4 01;726;182;53;111; 0.5;0.5; 0;0;0;0
+Side Die Character 4 02;878;295;56;110; 0.5;0.5; 0;0;0;0
+Side Die Character 4 03;765;408;71;103; 0.5;0.5; 0;0;0;0
+Side Die Character 4 04;936;295;62;110; 0.5;0.5; 0;0;0;0
+Side Die Character 4 05;631;409;76;102; 0.5;0.5; 0;0;0;0
+Side Die Character 4 06;332;452;113;59; 0.5;0.5; 0;0;0;0
+Side Die Character 4 07;226;455;104;56; 0.5;0.5; 0;0;0;0
+Side Die Character 4 08;1;458;110;53; 0.5;0.5; 0;0;0;0
+Side Die Character 4 09;113;458;111;53; 0.5;0.5; 0;0;0;0
+Side Hurt Character 4 01;726;182;53;111; 0.5;0.5; 0;0;0;0
+Side Hurt Character 4 02;1;300;55;105; 0.5;0.5; 0;0;0;0
+Side Hurt Character 4 03;1;300;55;105; 0.5;0.5; 0;0;0;0
+Side Hurt Character 4 04;1;183;54;110; 0.5;0.5; 0;0;0;0
+Side Hurt Character 4 05;250;182;53;111; 0.5;0.5; 0;0;0;0
+Side Idle Character 4 01;404;68;53;112; 0.5;0.5; 0;0;0;0
+Side Idle Character 4 02;459;68;53;112; 0.5;0.5; 0;0;0;0
+Side Idle Character 4 03;781;182;52;111; 0.5;0.5; 0;0;0;0
+Side Idle Character 4 04;835;182;53;111; 0.5;0.5; 0;0;0;0
+Side Idle Character 4 05;890;182;53;111; 0.5;0.5; 0;0;0;0
+Side Idle Character 4 06;835;182;53;111; 0.5;0.5; 0;0;0;0
+Side Idle Character 4 07;459;68;53;112; 0.5;0.5; 0;0;0;0
+Side Pickup Character 4 01;250;182;53;111; 0.5;0.5; 0;0;0;0
+Side Pickup Character 4 02;945;182;54;111; 0.5;0.5; 0;0;0;0
+Side Pickup Character 4 03;1;69;58;111; 0.5;0.5; 0;0;0;0
+Side Pickup Character 4 04;61;69;54;111; 0.5;0.5; 0;0;0;0
+Side Pickup Character 4 05;57;183;66;110; 0.5;0.5; 0;0;0;0
+Side Pickup Character 4 06;643;296;65;109; 0.5;0.5; 0;0;0;0
+Side Pickup Character 4 07;125;183;67;110; 0.5;0.5; 0;0;0;0
+Side Pickup Character 4 08;117;69;60;111; 0.5;0.5; 0;0;0;0
+Side Pickup Character 4 09;179;69;53;111; 0.5;0.5; 0;0;0;0
+Side Run Character 4 01;838;408;55;103; 0.5;0.5; 0;0;0;0
+Side Run Character 4 02;508;410;57;101; 0.5;0.5; 0;0;0;0
+Side Run Character 4 03;709;409;54;102; 0.5;0.5; 0;0;0;0
+Side Run Character 4 04;58;300;54;105; 0.5;0.5; 0;0;0;0
+Side Run Character 4 05;194;183;54;110; 0.5;0.5; 0;0;0;0
+Side Run Character 4 06;251;297;56;108; 0.5;0.5; 0;0;0;0
+Side Run Character 4 07;567;410;62;101; 0.5;0.5; 0;0;0;0
+Side Run Character 4 08;447;413;59;98; 0.5;0.5; 0;0;0;0
+Side Run Character 4 09;895;407;54;104; 0.5;0.5; 0;0;0;0
+Side Run Character 4 10;951;407;54;104; 0.5;0.5; 0;0;0;0
+Side Swing Character 4 01;250;182;53;111; 0.5;0.5; 0;0;0;0
+Side Swing Character 4 02;514;68;56;112; 0.5;0.5; 0;0;0;0
+Side Swing Character 4 03;710;296;56;109; 0.5;0.5; 0;0;0;0
+Side Swing Character 4 04;682;49;110;131; 0.5;0.5; 0;0;0;0
+Side Swing Character 4 05;851;37;109;143; 0.5;0.5; 0;0;0;0
+Side Swing Character 4 06;794;40;55;140; 0.5;0.5; 0;0;0;0
+Side Thrust Character 4 01;250;182;53;111; 0.5;0.5; 0;0;0;0
+Side Thrust Character 4 02;572;68;108;112; 0.5;0.5; 0;0;0;0
+Side Thrust Character 4 03;768;296;108;109; 0.5;0.5; 0;0;0;0
+Side Thrust Character 4 04;309;297;136;108; 0.5;0.5; 0;0;0;0
+Side Thrust Character 4 05;447;297;135;108; 0.5;0.5; 0;0;0;0
+Side Thrust Character 4 06;234;69;108;111; 0.5;0.5; 0;0;0;0

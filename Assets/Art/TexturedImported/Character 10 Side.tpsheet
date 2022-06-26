@@ -1,0 +1,80 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f59f5605af4dd979963f65495894bb33:c73f71c42c888da6f0505c8b94a7e103:2215eb51ed00c9e859d8e96e70bdb9d4$
+#
+:format=40300
+:texture=Character 10 Side.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Side Bow Character 10 01;1;402;62;106; 0.5;0.5; 0;0;0;0
+Side Bow Character 10 02;65;402;61;106; 0.5;0.5; 0;0;0;0
+Side Bow Character 10 03;111;185;61;107; 0.5;0.5; 0;0;0;0
+Side Bow Character 10 04;128;402;63;106; 0.5;0.5; 0;0;0;0
+Side Bow Character 10 05;193;402;62;106; 0.5;0.5; 0;0;0;0
+Side Bow Character 10 06;257;402;62;106; 0.5;0.5; 0;0;0;0
+Side Bow Character 10 07;321;402;62;106; 0.5;0.5; 0;0;0;0
+Side Cast Character 10 01;1;402;62;106; 0.5;0.5; 0;0;0;0
+Side Cast Character 10 02;385;402;65;106; 0.5;0.5; 0;0;0;0
+Side Cast Character 10 03;64;723;66;102; 0.5;0.5; 0;0;0;0
+Side Cast Character 10 04;263;722;69;103; 0.5;0.5; 0;0;0;0
+Side Cast Character 10 05;334;722;66;103; 0.5;0.5; 0;0;0;0
+Side Cast Character 10 06;1;294;60;106; 0.5;0.5; 0;0;0;0
+Side Die Character 10 01;63;294;62;106; 0.5;0.5; 0;0;0;0
+Side Die Character 10 02;174;185;59;107; 0.5;0.5; 0;0;0;0
+Side Die Character 10 03;132;723;69;102; 0.5;0.5; 0;0;0;0
+Side Die Character 10 04;111;74;62;109; 0.5;0.5; 0;0;0;0
+Side Die Character 10 05;1;832;76;95; 0.5;0.5; 0;0;0;0
+Side Die Character 10 06;105;964;111;59; 0.5;0.5; 0;0;0;0
+Side Die Character 10 07;1;965;102;58; 0.5;0.5; 0;0;0;0
+Side Die Character 10 08;218;963;106;60; 0.5;0.5; 0;0;0;0
+Side Die Character 10 09;326;959;106;64; 0.5;0.5; 0;0;0;0
+Side Hurt Character 10 01;63;294;62;106; 0.5;0.5; 0;0;0;0
+Side Hurt Character 10 02;203;723;58;102; 0.5;0.5; 0;0;0;0
+Side Hurt Character 10 03;203;723;58;102; 0.5;0.5; 0;0;0;0
+Side Hurt Character 10 04;282;510;60;105; 0.5;0.5; 0;0;0;0
+Side Hurt Character 10 05;1;402;62;106; 0.5;0.5; 0;0;0;0
+Side Idle Character 10 01;127;294;62;106; 0.5;0.5; 0;0;0;0
+Side Idle Character 10 02;191;294;62;106; 0.5;0.5; 0;0;0;0
+Side Idle Character 10 03;255;294;62;106; 0.5;0.5; 0;0;0;0
+Side Idle Character 10 04;319;294;62;106; 0.5;0.5; 0;0;0;0
+Side Idle Character 10 05;235;185;62;107; 0.5;0.5; 0;0;0;0
+Side Idle Character 10 06;319;294;62;106; 0.5;0.5; 0;0;0;0
+Side Idle Character 10 07;191;294;62;106; 0.5;0.5; 0;0;0;0
+Side Pickup Character 10 01;1;402;62;106; 0.5;0.5; 0;0;0;0
+Side Pickup Character 10 02;383;294;61;106; 0.5;0.5; 0;0;0;0
+Side Pickup Character 10 03;299;185;62;107; 0.5;0.5; 0;0;0;0
+Side Pickup Character 10 04;344;510;64;105; 0.5;0.5; 0;0;0;0
+Side Pickup Character 10 05;402;722;73;103; 0.5;0.5; 0;0;0;0
+Side Pickup Character 10 06;1;617;75;103; 0.5;0.5; 0;0;0;0
+Side Pickup Character 10 07;138;511;72;104; 0.5;0.5; 0;0;0;0
+Side Pickup Character 10 08;212;511;68;104; 0.5;0.5; 0;0;0;0
+Side Pickup Character 10 09;446;294;62;106; 0.5;0.5; 0;0;0;0
+Side Run Character 10 01;212;829;62;98; 0.5;0.5; 0;0;0;0
+Side Run Character 10 02;79;831;62;96; 0.5;0.5; 0;0;0;0
+Side Run Character 10 03;276;829;62;98; 0.5;0.5; 0;0;0;0
+Side Run Character 10 04;1;724;61;101; 0.5;0.5; 0;0;0;0
+Side Run Character 10 05;410;510;62;105; 0.5;0.5; 0;0;0;0
+Side Run Character 10 06;78;617;62;103; 0.5;0.5; 0;0;0;0
+Side Run Character 10 07;143;831;67;96; 0.5;0.5; 0;0;0;0
+Side Run Character 10 08;434;929;65;94; 0.5;0.5; 0;0;0;0
+Side Run Character 10 09;340;827;61;100; 0.5;0.5; 0;0;0;0
+Side Run Character 10 10;403;827;62;100; 0.5;0.5; 0;0;0;0
+Side Swing Character 10 01;1;402;62;106; 0.5;0.5; 0;0;0;0
+Side Swing Character 10 02;363;185;63;107; 0.5;0.5; 0;0;0;0
+Side Swing Character 10 03;142;617;64;103; 0.5;0.5; 0;0;0;0
+Side Swing Character 10 04;175;56;111;127; 0.5;0.5; 0;0;0;0
+Side Swing Character 10 05;352;52;110;131; 0.5;0.5; 0;0;0;0
+Side Swing Character 10 06;288;56;62;127; 0.5;0.5; 0;0;0;0
+Side Thrust Character 10 01;1;402;62;106; 0.5;0.5; 0;0;0;0
+Side Thrust Character 10 02;1;76;108;107; 0.5;0.5; 0;0;0;0
+Side Thrust Character 10 03;208;617;108;103; 0.5;0.5; 0;0;0;0
+Side Thrust Character 10 04;318;617;137;103; 0.5;0.5; 0;0;0;0
+Side Thrust Character 10 05;1;512;135;103; 0.5;0.5; 0;0;0;0
+Side Thrust Character 10 06;1;186;108;106; 0.5;0.5; 0;0;0;0
