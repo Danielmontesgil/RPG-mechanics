@@ -14,6 +14,7 @@ public class Inventory : ScriptableObject
         ItemContainer.AddItem(testHealthPotion);
     }
 
+    [ContextMenu("Test Add Mana Potion")]
     public void AddManaPotion()
     {
         ItemContainer.AddItem(testManaPotion);
