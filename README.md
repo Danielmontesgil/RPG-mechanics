@@ -4,6 +4,8 @@ This is an in-progress project with some RPG mechanics, also connected with Play
 
 How to use it.
 
+You need Unity 2020.3.30f1
+
 After hitting play, you are going to see a login screen, also you have the option to create an account.
 Then you can play the game or check the leaderboard (there are no entries yet but it is fetched from Playfab).
 
